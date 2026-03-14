@@ -24,7 +24,7 @@ Java project for system validation based on a theoretical model.
 C++ academic project for creating and manipulating finite automata.
 
 ### 🔹 [legacyia](https://github.com/seffarino/legacyia)
-Web project built in HTML.
+Python RAG assistant for understanding and documenting legacy codebases.
 
 ---
 
