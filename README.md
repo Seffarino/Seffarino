@@ -57,4 +57,3 @@ Web project built in HTML.
 
 ## Connect With Me
 -Email : seffaramayas30@gmail.com
-- Email: add your professional email here
