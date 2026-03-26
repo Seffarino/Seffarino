@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Seffar 👋</h1>
-- 💻 I mainly work with **Java**, **JavaScript**, **Python**, **TypeScript**, and **C++**
-- 🧠 Interested in **compilers**, **backend development**, **frontend projects**, and **software modeling**
-- 🚀 Currently improving my GitHub portfolio and publishing more clean, documented projects
-- 📚 I learn by building concrete projects and academic software systems
+- I mainly work with **Java**, **JavaScript**, **Python**, **TypeScript**, and **C++**
+- Interested in **backend development**, **frontend projects**, and **software modeling**
+- Currently improving my GitHub portfolio and publishing more clean, documented projects
 
 ---
 
