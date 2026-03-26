@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Seffar 👋</h1>
+*Hi, I'm Seffar 👋*
 - I mainly work with **Java**, **JavaScript**, **Python**, and **C++**
 - Interested in **backend development**, **frontend projects**, and **software modeling**
 - Currently improving my GitHub portfolio and publishing more clean, documented projects
